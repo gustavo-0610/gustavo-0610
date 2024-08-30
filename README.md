@@ -1,16 +1,13 @@
-## ola 👋
+### ola 👋
 
-<!--
-**gustavo-0610/gustavo-0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### meu nome e Gustavo
 
-Here are some ideas to get you started:
+-estudo no alura
+-desenvolvendo em javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### se quiser entrar em contato comigo 
+00001133753474sp@al.educacao.sp.go.br
+
+### fá de one piece 🏴‍☠️
+
+![](https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif)
